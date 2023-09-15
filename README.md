@@ -1,5 +1,5 @@
 # EFI Configuration Asus H410M-D + Intel Core i5-10500T iGPU
-EFI configuration for opencore hackintosh using Asus motherboard H410M-D with Intel Core i5-10500T
+EFI configuration for opencore hackintosh using Asus motherboard H410M-D with Intel Core i5-10500T, installing macOS Ventura
 https://thuanbui.me/hackintosh-cai-dat-macos-ventura-len-pc-cpu-intel-gen-10-mainboard-asus-h410m-d/
  
 ##  Tutorial
